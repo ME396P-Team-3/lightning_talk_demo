@@ -1,5 +1,7 @@
 This code was not created by us. You can find it here: https://realpython.com/face-recognition-with-python/
 
+Harry Potter image from: https://www.forbes.com/sites/emmapocock/2020/06/29/rumored-harry-potter-rpg-reportedly-releasing-in-2021/?sh=6046a8725f52
+
 
 Run the code like this:
 
