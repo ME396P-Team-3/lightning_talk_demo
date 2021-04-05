@@ -1,3 +1,6 @@
+This code was not created by us. You can find it here: https://realpython.com/face-recognition-with-python/
+
+
 Run the code like this:
 
 *python face_detect.py abba.png*
